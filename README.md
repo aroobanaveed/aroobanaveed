@@ -1,6 +1,14 @@
-- 👋 Hi, I’m Arooba Naveed. I'm an undergrad student, studying Computer systems engineering.
-- 👀 I’m interested in cyber security and android development. I'm exploring different zones to find something exquisite where I can grow and can give benefit to the community.
-- 🌱 I’m currently learning Dart and flutter 
+🎓 Computer Systems Engineering undergraduate at MUET, Jamshoro.
+💡 Currently focusing on Data Engineering, with an interest in Mobile App Development and building practical technology solutions.
+🌱 Continuously learning, strengthening my technical foundation, and exploring new ways to turn ideas into meaningful solutions.
+🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - 📫 For reaching me out:
 -     aroobanaveed25@gmail.com
 - or either on linkedin:https://pk.linkedin.com/in/arooba-naveed-
