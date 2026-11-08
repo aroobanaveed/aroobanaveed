@@ -1,7 +1,10 @@
--🎓 Computer Systems Engineering undergraduate at MUET, Jamshoro.
--💡 Currently focusing on Data Engineering, with an interest in Mobile App Development and building practical technology solutions.
--🌱 Continuously learning, strengthening my technical foundation, and exploring new ways to turn ideas into meaningful solutions.
--🛠️ Languages & Tools
+-  🎓 Computer Systems Engineering undergraduate at MUET, Jamshoro.
+
+-  💡 Currently focusing on Data Engineering, with an interest in Mobile App Development and building practical technology solutions.
+   
+-  🌱 Continuously learning, strengthening my technical foundation, and exploring new ways to turn ideas into meaningful solutions.
+
+-  🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
